@@ -4,4 +4,4 @@
  Мне 27 лет
 
 
-<img src="file:///C:\usr\Pictures\roma.jpg" />
+<img src="file:///img\roma.jpg" />
